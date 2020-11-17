@@ -19,6 +19,6 @@ entries:
     sources:
     - https://github.com/godaddy/kubernetes-external-secrets
     urls:
-    - https://cogirep.github.io/charts/kubernetes-external-secrets-6.0.0.tgz
+    - https://cogirep.github.io/kubernetes-external-secrets/kubernetes-external-secrets-6.0.0.tgz
     version: 6.0.0
 generated: "2020-11-17T01:35:40.850385+01:00"
